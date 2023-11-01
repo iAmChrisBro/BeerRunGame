@@ -1,0 +1,1432 @@
+fileFormatVersion: 2
+guid: 2280b2292e700744ab4d7de4918275bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3610126914064036961
+    second: Genius_Idle1
+  - first:
+      213: -6830285896527442818
+    second: Genius_Idle2
+  - first:
+      213: 1894902426765239008
+    second: Genius_Idle3
+  - first:
+      213: 1001664889118584243
+    second: Genius_IdleL1
+  - first:
+      213: 6088311794217656768
+    second: Genius_IdleL2
+  - first:
+      213: -6149279204153732146
+    second: Genius_IdleL3
+  - first:
+      213: -9164442342022605815
+    second: Genius_IdleB
+  - first:
+      213: -4041075422221270870
+    second: Genius_IdleR1
+  - first:
+      213: 7412295583575796783
+    second: Genius_IdleR2
+  - first:
+      213: -788091462840471406
+    second: Genius_IdleR3
+  - first:
+      213: -845133241513100093
+    second: Genius_FWalk1
+  - first:
+      213: -1241900173140184633
+    second: Genius_FWalk2
+  - first:
+      213: -1654603369858433958
+    second: Genius_FRun1
+  - first:
+      213: 2352841200532075471
+    second: Genius_FRun2
+  - first:
+      213: 6252481282610092860
+    second: Genius_FRun3
+  - first:
+      213: -692643007422508415
+    second: Genius_FWalk3
+  - first:
+      213: 9070682651556991775
+    second: Genius_FWalk4
+  - first:
+      213: 6361170212811247423
+    second: Genius_FRun4
+  - first:
+      213: -347454277017392594
+    second: Genius_FRun5
+  - first:
+      213: 3208074443663228341
+    second: Genius_FRun6
+  - first:
+      213: -1532191070732871377
+    second: Genius_LWalk1
+  - first:
+      213: -2620819550556064623
+    second: Genius_LWalk2
+  - first:
+      213: 3485959076469897549
+    second: Genius_LRun1
+  - first:
+      213: -199469486158124310
+    second: Genius_LRun2
+  - first:
+      213: -9216376298554718448
+    second: Genius_LRun3
+  - first:
+      213: 5585560261421169133
+    second: Genius_LWalk3
+  - first:
+      213: 6110900085964010534
+    second: Genius_LWalk4
+  - first:
+      213: -7604445765928508145
+    second: Genius_LRun4
+  - first:
+      213: -4001826932166812455
+    second: Genius_LRun5
+  - first:
+      213: -3049465118804803370
+    second: Genius_LRun6
+  - first:
+      213: -7331079722287217682
+    second: Genius_BWalk1
+  - first:
+      213: -5397630784151146336
+    second: Genius_BWalk2
+  - first:
+      213: -7964867454870068858
+    second: Genius_BRun1
+  - first:
+      213: 400046266607219701
+    second: Genius_BRun2
+  - first:
+      213: 85677970048673858
+    second: Genius_BRun3
+  - first:
+      213: -8434198193562496427
+    second: Genius_BWalk3
+  - first:
+      213: -7672019229595117747
+    second: Genius_BWalk4
+  - first:
+      213: 7783509345556402804
+    second: Genius_BRun4
+  - first:
+      213: 5844247513874238535
+    second: Genius_BRun5
+  - first:
+      213: -254259783458112844
+    second: Genius_BRun6
+  - first:
+      213: 744352739208904127
+    second: Genius_RRun6
+  - first:
+      213: 7463449809131629186
+    second: Genius_RRun5
+  - first:
+      213: 6582843202773378830
+    second: Genius_RRun1
+  - first:
+      213: -5907445139280339847
+    second: Genius_RRun2
+  - first:
+      213: 498277171355187328
+    second: Genius_RRun3
+  - first:
+      213: -4431667235663554940
+    second: Genius_RRun3
+  - first:
+      213: -9021884020929955812
+    second: Genius_RRun2
+  - first:
+      213: -5271742625453550621
+    second: Genius_RRun1
+  - first:
+      213: 5827088616838715254
+    second: Genius_RWalk2
+  - first:
+      213: 7440277572479198377
+    second: Genius_RWalk1
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Genius_Idle1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2593
+        width: 256
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bc22de2b046edc0800000000000000
+      internalID: -3610126914064036961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_Idle2
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2593
+        width: 256
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c0f1f5a23f531a0800000000000000
+      internalID: -6830285896527442818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_Idle3
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 2593
+        width: 256
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e22e5fa7bb0c4a10800000000000000
+      internalID: 1894902426765239008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_IdleL1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2225
+        width: 192
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bde4ebd8e0a6ed00800000000000000
+      internalID: 1001664889118584243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_IdleL2
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 2225
+        width: 192
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c12a20d1570e7450800000000000000
+      internalID: 6088311794217656768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_IdleL3
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 2225
+        width: 192
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec358b3e42f59aaa0800000000000000
+      internalID: -6149279204153732146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_IdleB
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1873
+        width: 256
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9049137ce3c51d080800000000000000
+      internalID: -9164442342022605815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_IdleR1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1489
+        width: 192
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa080f360573be7c0800000000000000
+      internalID: -4041075422221270870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_IdleR2
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1489
+        width: 192
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c6b3daf83cdd660800000000000000
+      internalID: 7412295583575796783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_IdleR3
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1489
+        width: 192
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29030e27df22015f0800000000000000
+      internalID: -788091462840471406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_FWalk1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1121
+        width: 288
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccbcb76bcb7544f0800000000000000
+      internalID: -845133241513100093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_FWalk2
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1153
+        width: 240
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1bb755f52e3cee0800000000000000
+      internalID: -1241900173140184633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_FRun1
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1105
+        width: 208
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c7c67600ba909e0800000000000000
+      internalID: -1654603369858433958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_FRun2
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1105
+        width: 208
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc33e922b98f6a020800000000000000
+      internalID: 2352841200532075471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_FRun3
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1105
+        width: 240
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bd0c6799645c650800000000000000
+      internalID: 6252481282610092860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_FWalk3
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 1121
+        width: 288
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1825c62cadc3366f0800000000000000
+      internalID: -692643007422508415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_FWalk4
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 1153
+        width: 240
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f135a5420d981ed70800000000000000
+      internalID: 9070682651556991775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_FRun4
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 1105
+        width: 208
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f096a0b9a674850800000000000000
+      internalID: 6361170212811247423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_FRun5
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 1105
+        width: 208
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a20ba0d289d2bf0800000000000000
+      internalID: -347454277017392594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_FRun6
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 1105
+        width: 240
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd3e8b95be558c20800000000000000
+      internalID: 3208074443663228341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_LWalk1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 753
+        width: 192
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2911fcc6509cbae0800000000000000
+      internalID: -1532191070732871377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_LWalk2
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 769
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194f4b4218af0abd0800000000000000
+      internalID: -2620819550556064623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_LRun1
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 785
+        width: 288
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4979868f4d906030800000000000000
+      internalID: 3485959076469897549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_LRun2
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 753
+        width: 240
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeae3062f875b3df0800000000000000
+      internalID: -199469486158124310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_LRun3
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 766
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0170150469ad81080800000000000000
+      internalID: -9216376298554718448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_LWalk3
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 753
+        width: 192
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9fb85d675e38d40800000000000000
+      internalID: 5585560261421169133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_LWalk4
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 753
+        width: 208
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624f9c150474ec450800000000000000
+      internalID: 6110900085964010534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_LRun4
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 769
+        width: 288
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05ab10bdd4977690800000000000000
+      internalID: -7604445765928508145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_LRun5
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 769
+        width: 240
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc1b979b97a678c0800000000000000
+      internalID: -4001826932166812455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_LRun6
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 753
+        width: 240
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d002b691af1ea5d0800000000000000
+      internalID: -3049465118804803370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_BWalk1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 385
+        width: 288
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3400595d5c24a90800000000000000
+      internalID: -7331079722287217682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_BWalk2
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 386
+        width: 224
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a035f15663c715b0800000000000000
+      internalID: -5397630784151146336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_BRun1
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 369
+        width: 224
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681666ddf3b177190800000000000000
+      internalID: -7964867454870068858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_BRun2
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 369
+        width: 224
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f338deb5ff3d8500800000000000000
+      internalID: 400046266607219701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_BRun3
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 369
+        width: 240
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248e3d9e8a3603100800000000000000
+      internalID: 85677970048673858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_BWalk3
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 385
+        width: 288
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5525773ed65b3fa80800000000000000
+      internalID: -8434198193562496427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_BWalk4
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 386
+        width: 224
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d475406a823878590800000000000000
+      internalID: -7672019229595117747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_BRun4
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 369
+        width: 224
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47292dfc284940c60800000000000000
+      internalID: 7783509345556402804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_BRun5
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 369
+        width: 224
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c0fe35620fa1150800000000000000
+      internalID: 5844247513874238535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_BRun6
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 369
+        width: 240
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4babf46f210b87cf0800000000000000
+      internalID: -254259783458112844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_RRun6
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 17
+        width: 240
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdb2206fd8745a00800000000000000
+      internalID: 744352739208904127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_RRun5
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 33
+        width: 240
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a6f30fe00839760800000000000000
+      internalID: 7463449809131629186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_RRun4
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 33
+        width: 288
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07e669f305fa5b50800000000000000
+      internalID: -4243567346945447922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_RWalk4
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 17
+        width: 208
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c561fd1f9840ea0800000000000000
+      internalID: 7752880075854579824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_RWalk3
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 17
+        width: 192
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088ff46827c3ae600800000000000000
+      internalID: -4322175178256749607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_RRun3
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 33
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486598f012e8f72c0800000000000000
+      internalID: 498277171355187328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_RRun2
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 17
+        width: 240
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1872bf6844dbc280800000000000000
+      internalID: -5907445139280339847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_RRun1
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 33
+        width: 288
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e35e86530207d6b0800000000000000
+      internalID: 6582843202773378830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_RWalk2
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 33
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677d469493afdd050800000000000000
+      internalID: 5827088616838715254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genius_RWalk1
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 17
+        width: 192
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4ade9280d214760800000000000000
+      internalID: 7440277572479198377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Genius_RRun6: 744352739208904127
+      Genius_Idle1: -3610126914064036961
+      Genius_BRun3: 85677970048673858
+      Genius_BRun1: -7964867454870068858
+      Genius_LRun3: -9216376298554718448
+      Genius_IdleL2: 6088311794217656768
+      Genius_RRun1: 6582843202773378830
+      Genius_LRun6: -3049465118804803370
+      Genius_LWalk3: 5585560261421169133
+      Genius_IdleB: -9164442342022605815
+      Genius_FRun6: 3208074443663228341
+      Genius_IdleL3: -6149279204153732146
+      Genius_Idle3: 1894902426765239008
+      Genius_LRun5: -4001826932166812455
+      Genius_FWalk3: -692643007422508415
+      Genius_IdleR1: -4041075422221270870
+      Genius_RRun5: 7463449809131629186
+      Genius_FRun1: -1654603369858433958
+      Genius_FRun4: 6361170212811247423
+      Genius_BRun6: -254259783458112844
+      Genius_IdleL1: 1001664889118584243
+      Genius_Idle2: -6830285896527442818
+      Genius_IdleR2: 7412295583575796783
+      Genius_RRun2: -5907445139280339847
+      Genius_RWalk4: 7752880075854579824
+      Genius_RRun3: 498277171355187328
+      Genius_RWalk2: 5827088616838715254
+      Genius_IdleR3: -788091462840471406
+      Genius_FRun3: 6252481282610092860
+      Genius_LWalk2: -2620819550556064623
+      Genius_LWalk1: -1532191070732871377
+      Genius_FWalk2: -1241900173140184633
+      Genius_BWalk3: -8434198193562496427
+      Genius_BWalk2: -5397630784151146336
+      Genius_FRun2: 2352841200532075471
+      Genius_FRun5: -347454277017392594
+      Genius_BRun4: 7783509345556402804
+      Genius_BWalk1: -7331079722287217682
+      Genius_LRun2: -199469486158124310
+      Genius_FWalk1: -845133241513100093
+      Genius_RWalk1: 7440277572479198377
+      Genius_LWalk4: 6110900085964010534
+      Genius_FWalk4: 9070682651556991775
+      Genius_LRun1: 3485959076469897549
+      Genius_RRun4: -4243567346945447922
+      Genius_BWalk4: -7672019229595117747
+      Genius_BRun2: 400046266607219701
+      Genius_BRun5: 5844247513874238535
+      Genius_LRun4: -7604445765928508145
+      Genius_RWalk3: -4322175178256749607
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

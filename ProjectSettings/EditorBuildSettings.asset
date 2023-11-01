@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: ebce39fbdf865f54ca36ccd5d519ec2a
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 7e5d203a3b63fca46a7f5166639eb846
+  - enabled: 1
+    path: Assets/Scenes/StoryBoard.unity
+    guid: 0c042fc4df5d2a343bd7df698a4c2d63
+  - enabled: 1
+    path: Assets/Scenes/ChoosePlayer.unity
+    guid: 34aa1df41363ab84ea23dbc89ab60b49
+  - enabled: 1
+    path: Assets/Scenes/Levels.unity
+    guid: d896a03d3a915b14f9648eec580fdf9a
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/CSLevel1.unity
+    guid: fedd6eb327ec90645a0ce2e1f8945161
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/CSLevel2.unity
+    guid: 2b4b4bd36ea2d2648a1c77c1f0bef758
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level2.unity
+    guid: 18c226527ab2e1e4ea5bdba31a35383c
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/CSLevel3.unity
+    guid: 19b9c8d3973c56a4caa292fde9aa559a
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level3.unity
+    guid: a874d2c724b86664d88dd66488bdb5bf
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/CSLevel4.unity
+    guid: a212e6e4dc7249b4e80453e8f8c92f03
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level4.unity
+    guid: 001d5147dede2bd439d88922725afe1c
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/CSLevel5.unity
+    guid: 6280db29789b7c847ad2ec9bd1bc7f98
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level5.unity
+    guid: 9191037bfbb915c4bbb816ce31c3a2cf
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/CSLevel6.unity
+    guid: c43df4ef9247da04b8b133918aec111b
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level6.unity
+    guid: a5f69270a42fa9d46a3c768b5a52a0cd
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/CSLevel7.unity
+    guid: 5dce693bc2a1f05438041d4e1b37908f
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level7.unity
+    guid: 78ff4a30bdfe27c44bec66275fcc9c01
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/CSLevel8.unity
+    guid: 7617216c47d2d59448feada366414163
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level8.unity
+    guid: 890f6e7b922f3c345b6483347c34b3e5
+  - enabled: 1
+    path: Assets/Scenes/EndScene.unity
+    guid: a0aa633a4714743428f1734ae45a2501
+  m_configObjects:
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 9e94d99ed355a3e40930c603fc5cfc60, type: 2}

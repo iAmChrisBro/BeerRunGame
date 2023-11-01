@@ -1,0 +1,1432 @@
+fileFormatVersion: 2
+guid: f1ca9110596061843baab52f92f0d0db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7334222829683107747
+    second: Stoner_Idle1
+  - first:
+      213: -2484175720414371426
+    second: Stoner_Idle2
+  - first:
+      213: 1729828069014620805
+    second: Stoner_Idle3
+  - first:
+      213: 6169302568618407713
+    second: Stoner_IdleL1
+  - first:
+      213: -8890943224686456027
+    second: Stoner_IdleL2
+  - first:
+      213: 2294690504319783490
+    second: Stoner_IdleL3
+  - first:
+      213: -4350159566002127994
+    second: Stoner_IdleB
+  - first:
+      213: 547950093417262825
+    second: Stoner_IdleR1
+  - first:
+      213: -6601335601640412144
+    second: Stoner_IdleR2
+  - first:
+      213: -7534909118883389312
+    second: Stoner_IdleR3
+  - first:
+      213: -9126164852597532210
+    second: Stoner_Walk1
+  - first:
+      213: 2385262780008047223
+    second: Stoner_Walk2
+  - first:
+      213: -1230285010994390456
+    second: Stoner_Run1
+  - first:
+      213: 6705386012883104613
+    second: Stoner_Run2
+  - first:
+      213: -6854676053766144374
+    second: Stoner_Run3
+  - first:
+      213: 2667758271953752711
+    second: Stoner_Walk3
+  - first:
+      213: 8101520953493496925
+    second: Stoner_Walk4
+  - first:
+      213: 7324095092600364946
+    second: Stoner_Run4
+  - first:
+      213: 5919768268319607145
+    second: Stoner_Run5
+  - first:
+      213: 7808991177917264497
+    second: Stoner_Run6
+  - first:
+      213: -2800798504716226094
+    second: Stoner_WalkL1
+  - first:
+      213: 5945451790798614866
+    second: Stoner_WalkL2
+  - first:
+      213: -1636868580418753386
+    second: Stoner_RunL1
+  - first:
+      213: 6618263423790674187
+    second: Stoner_RunL2
+  - first:
+      213: -708339877547552385
+    second: Stoner_RunL3
+  - first:
+      213: 4622810999612414947
+    second: Stoner_WalkL3
+  - first:
+      213: 9192066666468601257
+    second: Stoner_WalkL4
+  - first:
+      213: -7476274178693100909
+    second: Stoner_RunL4
+  - first:
+      213: 898799732758605809
+    second: Stoner_RunL5
+  - first:
+      213: -676489178902885302
+    second: Stoner_RunL6
+  - first:
+      213: -2261363137838938377
+    second: Stoner_WalkB1
+  - first:
+      213: -5341568402721800978
+    second: Stoner_WalkB2
+  - first:
+      213: -8806970891237865693
+    second: Stoner_RunB1
+  - first:
+      213: -2363414382346199546
+    second: Stoner_RunB2
+  - first:
+      213: -2355780210652170458
+    second: Stoner_RunB3
+  - first:
+      213: -408635535897126002
+    second: Stoner_WalkB3
+  - first:
+      213: -7294949137507805130
+    second: Stoner_WalkB4
+  - first:
+      213: 3922778864335997095
+    second: Stoner_RunB4
+  - first:
+      213: -1844009297924967744
+    second: Stoner_RunB5
+  - first:
+      213: -2595921144290913901
+    second: Stoner_RunB6
+  - first:
+      213: 992780315283966604
+    second: Stoner_RunR6
+  - first:
+      213: 643837442585931632
+    second: Stoner_RunR5
+  - first:
+      213: -3540279074930694428
+    second: Stoner_RunR4
+  - first:
+      213: 1439590713904657188
+    second: Stoner_WalkR4
+  - first:
+      213: -6746366657041181915
+    second: Stoner_WalkR3
+  - first:
+      213: 6470897298300703089
+    second: Stoner_RunR3
+  - first:
+      213: -6034429562411461461
+    second: Stoner_RunR2
+  - first:
+      213: 211779057844928347
+    second: Stoner_RunR1
+  - first:
+      213: 8820142558223809135
+    second: Stoner_WalkR2
+  - first:
+      213: -5154624118220148654
+    second: Stoner_WalkR1
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stoner_Idle1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2593
+        width: 256
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a762d22ec468c560800000000000000
+      internalID: 7334222829683107747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_Idle2
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2593
+        width: 256
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e912d01185f668dd0800000000000000
+      internalID: -2484175720414371426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_Idle3
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 2593
+        width: 256
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58acd18b675910810800000000000000
+      internalID: 1729828069014620805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_IdleL1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2225
+        width: 192
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127b762fff3cd9550800000000000000
+      internalID: 6169302568618407713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_IdleL2
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 2225
+        width: 192
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523d56e4e360d9480800000000000000
+      internalID: -8890943224686456027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_IdleL3
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 2225
+        width: 192
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242517b1bd068df10800000000000000
+      internalID: 2294690504319783490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_IdleB
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1873
+        width: 256
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bfc204ce021a3c0800000000000000
+      internalID: -4350159566002127994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_IdleR1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1489
+        width: 192
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee27c0f4b5ba9700800000000000000
+      internalID: 547950093417262825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_IdleR2
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1489
+        width: 192
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c6515ee385364a0800000000000000
+      internalID: -6601335601640412144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_IdleR3
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1489
+        width: 192
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080aa1af310ae6790800000000000000
+      internalID: -7534909118883389312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_Walk1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1121
+        width: 288
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9d4474b69595180800000000000000
+      internalID: -9126164852597532210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_Walk2
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1153
+        width: 240
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772275a5cd72a1120800000000000000
+      internalID: 2385262780008047223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_Run1
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1105
+        width: 208
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a11330d462deee0800000000000000
+      internalID: -1230285010994390456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_Run2
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1105
+        width: 208
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56335c35d015e0d50800000000000000
+      internalID: 6705386012883104613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_Run3
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1105
+        width: 240
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e74ec527c4fd0a0800000000000000
+      internalID: -6854676053766144374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_Walk3
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 1121
+        width: 288
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782d9629308c50520800000000000000
+      internalID: 2667758271953752711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_Walk4
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 1153
+        width: 240
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d542d5d22626e6070800000000000000
+      internalID: 8101520953493496925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_Run4
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 1105
+        width: 208
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f50a79ea964a560800000000000000
+      internalID: 7324095092600364946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_Run5
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 1105
+        width: 208
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969c1d130ed372250800000000000000
+      internalID: 5919768268319607145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_Run6
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 1105
+        width: 240
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172faed3a1c1f5c60800000000000000
+      internalID: 7808991177917264497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_WalkL1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 753
+        width: 192
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1b1f669909129d0800000000000000
+      internalID: -2800798504716226094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_WalkL2
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 769
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251f2c347ec728250800000000000000
+      internalID: 5945451790798614866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_RunL1
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 785
+        width: 288
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c6428d2bca849e0800000000000000
+      internalID: -1636868580418753386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_RunL2
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 753
+        width: 240
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01f005d48bc8db50800000000000000
+      internalID: 6618263423790674187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_RunL3
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 769
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71d88262a87b26f0800000000000000
+      internalID: -708339877547552385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_WalkL3
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 753
+        width: 192
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb9aa78c16872040800000000000000
+      internalID: 4622810999612414947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_WalkL4
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 753
+        width: 208
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ade1967ee7c09f70800000000000000
+      internalID: 9192066666468601257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_RunL4
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 769
+        width: 288
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a8297de30fe3890800000000000000
+      internalID: -7476274178693100909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_RunL5
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 769
+        width: 240
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffea4b489d297c00800000000000000
+      internalID: 898799732758605809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_RunL6
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 753
+        width: 240
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c091d0da0ac96f0800000000000000
+      internalID: -676489178902885302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_WalkB1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 385
+        width: 288
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f682f415360e90e0800000000000000
+      internalID: -2261363137838938377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_WalkB2
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 386
+        width: 224
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecf05ca6dfeed5b0800000000000000
+      internalID: -5341568402721800978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_RunB1
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 369
+        width: 224
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327cf80c2aa57c580800000000000000
+      internalID: -8806970891237865693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_RunB2
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 369
+        width: 224
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e94332427733fd0800000000000000
+      internalID: -2363414382346199546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_RunB3
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 369
+        width: 240
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627be2f31669e4fd0800000000000000
+      internalID: -2355780210652170458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_WalkB3
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 385
+        width: 288
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b1048252c345af0800000000000000
+      internalID: -408635535897126002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_WalkB4
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 386
+        width: 224
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6381e44e86223ca90800000000000000
+      internalID: -7294949137507805130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_RunB4
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 369
+        width: 224
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a84825e792807630800000000000000
+      internalID: 3922778864335997095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_RunB5
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 369
+        width: 224
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c23aa24053c866e0800000000000000
+      internalID: -1844009297924967744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_RunB6
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 369
+        width: 240
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3915d99197f69fbd0800000000000000
+      internalID: -2595921144290913901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_RunR6
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 17
+        width: 240
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a4080df6017cd00800000000000000
+      internalID: 992780315283966604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_RunR5
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 33
+        width: 240
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f2e6a2ebe5fe800800000000000000
+      internalID: 643837442585931632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_RunR4
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 33
+        width: 288
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6e10540f66edec0800000000000000
+      internalID: -3540279074930694428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_WalkR4
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 17
+        width: 208
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423fc3480247af310800000000000000
+      internalID: 1439590713904657188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_WalkR3
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 17
+        width: 192
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523558ae4471062a0800000000000000
+      internalID: -6746366657041181915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_RunR3
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 33
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1719f3bfece3dc950800000000000000
+      internalID: 6470897298300703089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_RunR2
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 17
+        width: 240
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba45956e846614ca0800000000000000
+      internalID: -6034429562411461461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_RunR1
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 49
+        width: 288
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fb6b95ee360f200800000000000000
+      internalID: 211779057844928347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_WalkR2
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 33
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a3c33fce0776a70800000000000000
+      internalID: 8820142558223809135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stoner_WalkR1
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 17
+        width: 192
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250b3d2cca81778b0800000000000000
+      internalID: -5154624118220148654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Stoner_RunR5: 643837442585931632
+      Stoner_RunL5: 898799732758605809
+      Stoner_RunB3: -2355780210652170458
+      Stoner_IdleL1: 6169302568618407713
+      Stoner_WalkB1: -2261363137838938377
+      Stoner_RunL2: 6618263423790674187
+      Stoner_RunL3: -708339877547552385
+      Stoner_IdleR2: -6601335601640412144
+      Stoner_WalkR3: -6746366657041181915
+      Stoner_RunL4: -7476274178693100909
+      Stoner_RunR6: 992780315283966604
+      Stoner_Walk4: 8101520953493496925
+      Stoner_WalkL1: -2800798504716226094
+      Stoner_WalkR1: -5154624118220148654
+      Stoner_RunB6: -2595921144290913901
+      Stoner_WalkL2: 5945451790798614866
+      Stoner_Idle3: 1729828069014620805
+      Stoner_Idle1: 7334222829683107747
+      Stoner_Walk3: 2667758271953752711
+      Stoner_WalkB2: -5341568402721800978
+      Stoner_IdleL3: 2294690504319783490
+      Stoner_WalkL4: 9192066666468601257
+      Stoner_RunB2: -2363414382346199546
+      Stoner_RunR1: 211779057844928347
+      Stoner_RunB5: -1844009297924967744
+      Stoner_Run5: 5919768268319607145
+      Stoner_WalkR2: 8820142558223809135
+      Stoner_Walk1: -9126164852597532210
+      Stoner_IdleR1: 547950093417262825
+      Stoner_IdleB: -4350159566002127994
+      Stoner_WalkR4: 1439590713904657188
+      Stoner_RunR3: 6470897298300703089
+      Stoner_WalkL3: 4622810999612414947
+      Stoner_IdleR3: -7534909118883389312
+      Stoner_RunB4: 3922778864335997095
+      Stoner_IdleL2: -8890943224686456027
+      Stoner_Run1: -1230285010994390456
+      Stoner_RunB1: -8806970891237865693
+      Stoner_RunL1: -1636868580418753386
+      Stoner_RunR2: -6034429562411461461
+      Stoner_Run4: 7324095092600364946
+      Stoner_WalkB4: -7294949137507805130
+      Stoner_RunL6: -676489178902885302
+      Stoner_Run2: 6705386012883104613
+      Stoner_Idle2: -2484175720414371426
+      Stoner_WalkB3: -408635535897126002
+      Stoner_Run6: 7808991177917264497
+      Stoner_RunR4: -3540279074930694428
+      Stoner_Run3: -6854676053766144374
+      Stoner_Walk2: 2385262780008047223
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1432 @@
+fileFormatVersion: 2
+guid: 95e3461260fde8b46ad5f539fa51a6c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5888176367456088056
+    second: Manik_Idle1
+  - first:
+      213: -6963273087876816633
+    second: Manik_Idle2
+  - first:
+      213: -7786638310475432763
+    second: Manik_Idle3
+  - first:
+      213: -5520715006619904489
+    second: Manik_IdleL1
+  - first:
+      213: 7055632466084751731
+    second: Manik_IdleL2
+  - first:
+      213: 6850312560225928155
+    second: Manik_IdleL3
+  - first:
+      213: -1540198906536146516
+    second: Manik_IdleB
+  - first:
+      213: 1239048394683315760
+    second: Manik_IdleR1
+  - first:
+      213: 4245124328997266359
+    second: Manik_IdleR2
+  - first:
+      213: 2880791280355522334
+    second: Manik_IdleR3
+  - first:
+      213: 4041413780568460360
+    second: Manik_Walk1
+  - first:
+      213: -1584304015540543685
+    second: Manik_Walk2
+  - first:
+      213: -4943041689564216663
+    second: Manik_Run1
+  - first:
+      213: -6634429198417665388
+    second: Manik_Run2
+  - first:
+      213: -970226481411572961
+    second: Manik_Run3
+  - first:
+      213: -2849518558607453597
+    second: Manik_Walk3
+  - first:
+      213: -3437300288893149082
+    second: Manik_Walk4
+  - first:
+      213: 2979674528658621022
+    second: Manik_Run4
+  - first:
+      213: 1659004070147002015
+    second: Manik_Run5
+  - first:
+      213: 4835300205225300043
+    second: Manik_Run6
+  - first:
+      213: 65378481158740490
+    second: Manik_WalkL1
+  - first:
+      213: 343745114019150219
+    second: Manik_WalkL2
+  - first:
+      213: 6003073611694261881
+    second: Manik_RunL1
+  - first:
+      213: -1063121584361689861
+    second: Manik_RunL2
+  - first:
+      213: 3593839475271372835
+    second: Manik_RunL3
+  - first:
+      213: 3523311951960283602
+    second: Manik_WalkL3
+  - first:
+      213: 1605818332950990403
+    second: Manik_WalkL4
+  - first:
+      213: 6675694404797249945
+    second: Manik_RunL4
+  - first:
+      213: 6151503505799051739
+    second: Manik_RunL5
+  - first:
+      213: 3918577882041791349
+    second: Manik_RunL6
+  - first:
+      213: -7541065051457481630
+    second: Manik_WalkB1
+  - first:
+      213: -5569670767701017933
+    second: Manik_WalkB2
+  - first:
+      213: 7843161443901001776
+    second: Manik_RunB1
+  - first:
+      213: 5681730190493123486
+    second: Manik_RunB2
+  - first:
+      213: -8638659068430287429
+    second: Manik_RunB3
+  - first:
+      213: -2805159960629866020
+    second: Manik_WalkB3
+  - first:
+      213: -8128596824557899114
+    second: Manik_WalkB4
+  - first:
+      213: 7418420514122331878
+    second: Manik_RunB4
+  - first:
+      213: 50190210089867381
+    second: Manik_RunB5
+  - first:
+      213: -938004223056540270
+    second: Manik_RunB6
+  - first:
+      213: 5561040405600143307
+    second: Manik_RunR6
+  - first:
+      213: -4133550347945340100
+    second: Manik_RunR5
+  - first:
+      213: -7526021993397045843
+    second: Manik_RunR4
+  - first:
+      213: -1585492741088804998
+    second: Manik_WalkR4
+  - first:
+      213: 6186941570909796576
+    second: Manik_WalkR3
+  - first:
+      213: -3575436721161179409
+    second: Manik_RunR3
+  - first:
+      213: 5767364932238164998
+    second: Manik_RunR2
+  - first:
+      213: 2312217139852390238
+    second: Manik_RunR1
+  - first:
+      213: -4938268485335739397
+    second: Manik_WalkR2
+  - first:
+      213: 2151914700551651078
+    second: Manik_WalkR1
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Manik_Idle1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2594
+        width: 256
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffe115953107b150800000000000000
+      internalID: 5888176367456088056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_Idle2
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2593
+        width: 256
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701a013050c7d5f90800000000000000
+      internalID: -6963273087876816633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_Idle3
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 2593
+        width: 256
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccf9a546bd40f390800000000000000
+      internalID: -7786638310475432763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_IdleL1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2225
+        width: 192
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716904493fa7263b0800000000000000
+      internalID: -5520715006619904489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_IdleL2
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 2225
+        width: 192
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379e1b67854aae160800000000000000
+      internalID: 7055632466084751731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_IdleL3
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 2225
+        width: 192
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3c9a0aaf2311f50800000000000000
+      internalID: 6850312560225928155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_IdleB
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1873
+        width: 256
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9c77c314d10aae0800000000000000
+      internalID: -1540198906536146516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_IdleR1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1489
+        width: 192
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036fd9043fbf13110800000000000000
+      internalID: 1239048394683315760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_IdleR2
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1488
+        width: 192
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b32049e516b9ea30800000000000000
+      internalID: 4245124328997266359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_IdleR3
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1489
+        width: 192
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1732a90860aaf720800000000000000
+      internalID: 2880791280355522334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_Walk1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1121
+        width: 288
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cc62dcb6cf51830800000000000000
+      internalID: 4041413780568460360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_Walk2
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1153
+        width: 240
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f1b7154eb630ae0800000000000000
+      internalID: -1584304015540543685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_Run1
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1105
+        width: 208
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2049fc5c9c66bb0800000000000000
+      internalID: -4943041689564216663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_Run2
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1105
+        width: 208
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492e5d47bc5cde3a0800000000000000
+      internalID: -6634429198417665388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_Run3
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1105
+        width: 240
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b39c7d7201982f0800000000000000
+      internalID: -970226481411572961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_Walk3
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 1121
+        width: 288
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362d155e7f97478d0800000000000000
+      internalID: -2849518558607453597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_Walk4
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 1153
+        width: 240
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6602d2e49914c40d0800000000000000
+      internalID: -3437300288893149082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_Run4
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 1105
+        width: 208
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e520af2623ee95920800000000000000
+      internalID: 2979674528658621022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_Run5
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 1105
+        width: 208
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e0a0a7967f50710800000000000000
+      internalID: 1659004070147002015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_Run6
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 1105
+        width: 240
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40d3da0bef6a1340800000000000000
+      internalID: 4835300205225300043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_WalkL1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 753
+        width: 192
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0adb69d16548e000800000000000000
+      internalID: 65378481158740490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_WalkL2
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 769
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8933662c5a35c400800000000000000
+      internalID: 343745114019150219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_RunL1
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 785
+        width: 288
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976ce89e4a33f4350800000000000000
+      internalID: 6003073611694261881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_RunL2
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 753
+        width: 240
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc221b3d880f31f0800000000000000
+      internalID: -1063121584361689861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_RunL3
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 769
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320935736f1efd130800000000000000
+      internalID: 3593839475271372835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_WalkL3
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 753
+        width: 192
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d91b719d8155e030800000000000000
+      internalID: 3523311951960283602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_WalkL4
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 753
+        width: 208
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e8a5d0443094610800000000000000
+      internalID: 1605818332950990403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_RunL4
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 762
+        width: 288
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999b00b11b4d4ac50800000000000000
+      internalID: 6675694404797249945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_RunL5
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 769
+        width: 240
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9f8b1b8d78e5550800000000000000
+      internalID: 6151503505799051739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_RunL6
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 753
+        width: 240
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573bdcb72d5916630800000000000000
+      internalID: 3918577882041791349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_WalkB1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 385
+        width: 288
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26493cb3a41c85790800000000000000
+      internalID: -7541065051457481630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_WalkB2
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 386
+        width: 224
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3babd4732fd84b2b0800000000000000
+      internalID: -5569670767701017933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_RunB1
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 369
+        width: 224
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03052c347c188dc60800000000000000
+      internalID: 7843161443901001776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_RunB2
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 369
+        width: 224
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9384f1518f89de40800000000000000
+      internalID: 5681730190493123486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_RunB3
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 369
+        width: 240
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd718ac8515d1880800000000000000
+      internalID: -8638659068430287429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_WalkB3
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 385
+        width: 288
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd11280d0e11219d0800000000000000
+      internalID: -2805159960629866020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_WalkB4
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 386
+        width: 224
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692bbd5514c613f80800000000000000
+      internalID: -8128596824557899114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_RunB4
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 369
+        width: 224
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e67bb2372683f660800000000000000
+      internalID: 7418420514122331878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_RunB5
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 369
+        width: 224
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578db9beabf42b000800000000000000
+      internalID: 50190210089867381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_RunB6
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 369
+        width: 240
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d06eef02a8bf2f0800000000000000
+      internalID: -938004223056540270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_RunR6
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 17
+        width: 240
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7046509c8cc2d40800000000000000
+      internalID: 5561040405600143307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_RunR5
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 33
+        width: 240
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c339689ebdda2a6c0800000000000000
+      internalID: -4133550347945340100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_RunR4
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 33
+        width: 288
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5bacf1fd23e8790800000000000000
+      internalID: -7526021993397045843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_WalkR4
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 17
+        width: 208
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ff07590c23ff9e0800000000000000
+      internalID: -1585492741088804998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_WalkR3
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 17
+        width: 192
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8fc24349e6cd550800000000000000
+      internalID: 6186941570909796576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_RunR3
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 33
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feeec4ede3f716ec0800000000000000
+      internalID: -3575436721161179409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_RunR2
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 17
+        width: 240
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604c91c59dbc90050800000000000000
+      internalID: 5767364932238164998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_RunR1
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 49
+        width: 288
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fa870fc35a61020800000000000000
+      internalID: 2312217139852390238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_WalkR2
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 33
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf39e060afeb77bb0800000000000000
+      internalID: -4938268485335739397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manik_WalkR1
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 12
+        width: 192
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f7251d4032ddd10800000000000000
+      internalID: 2151914700551651078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Manik_Walk1: 4041413780568460360
+      Manik_Run1: -4943041689564216663
+      Manik_RunR6: 5561040405600143307
+      Manik_RunR4: -7526021993397045843
+      Manik_WalkB1: -7541065051457481630
+      Manik_RunL6: 3918577882041791349
+      Manik_IdleB: -1540198906536146516
+      Manik_WalkB3: -2805159960629866020
+      Manik_RunL1: 6003073611694261881
+      Manik_RunB4: 7418420514122331878
+      Manik_Walk3: -2849518558607453597
+      Manik_RunL5: 6151503505799051739
+      Manik_Walk4: -3437300288893149082
+      Manik_RunB2: 5681730190493123486
+      Manik_WalkL2: 343745114019150219
+      Manik_WalkB2: -5569670767701017933
+      Manik_RunB6: -938004223056540270
+      Manik_WalkL1: 65378481158740490
+      Manik_WalkL4: 1605818332950990403
+      Manik_WalkR1: 2151914700551651078
+      Manik_IdleR2: 4245124328997266359
+      Manik_Run3: -970226481411572961
+      Manik_IdleR3: 2880791280355522334
+      Manik_RunB3: -8638659068430287429
+      Manik_RunB1: 7843161443901001776
+      Manik_RunB5: 50190210089867381
+      Manik_IdleL3: 6850312560225928155
+      Manik_Idle2: -6963273087876816633
+      Manik_WalkL3: 3523311951960283602
+      Manik_RunR2: 5767364932238164998
+      Manik_WalkR3: 6186941570909796576
+      Manik_Run2: -6634429198417665388
+      Manik_Run4: 2979674528658621022
+      Manik_RunL3: 3593839475271372835
+      Manik_Idle1: 5888176367456088056
+      Manik_WalkB4: -8128596824557899114
+      Manik_Idle3: -7786638310475432763
+      Manik_IdleL2: 7055632466084751731
+      Manik_IdleL1: -5520715006619904489
+      Manik_Run5: 1659004070147002015
+      Manik_RunR3: -3575436721161179409
+      Manik_WalkR2: -4938268485335739397
+      Manik_WalkR4: -1585492741088804998
+      Manik_RunR5: -4133550347945340100
+      Manik_RunL2: -1063121584361689861
+      Manik_Run6: 4835300205225300043
+      Manik_Walk2: -1584304015540543685
+      Manik_RunL4: 6675694404797249945
+      Manik_IdleR1: 1239048394683315760
+      Manik_RunR1: 2312217139852390238
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
